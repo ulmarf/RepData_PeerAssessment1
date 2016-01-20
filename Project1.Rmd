@@ -1,8 +1,8 @@
 ---
-title: "Untersuchung der Ableitströme bei der HVAC-Prüfung"
+title: "Reproducible Research: Peer Assessment 1"
 author: "Florian Ulmar"
 date: "20.01.2016"
-output: md_document
+output: html_document
 ---
 
 ```{r warning = F, message = F, echo = F}
